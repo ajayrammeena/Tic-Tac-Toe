@@ -150,6 +150,6 @@ So hide these border so make some utility class and use them in box */
         grid-template-columns: repeat(3, 20vw);
     }
     .line{
-        width: 0;
+       display: none;
     }
 }
